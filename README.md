@@ -1,1 +1,1 @@
-# Guess-Number
+A simple guessing game Project
