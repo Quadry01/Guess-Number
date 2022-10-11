@@ -119,6 +119,24 @@ h1 {
   margin-bottom: 2rem;
 }
 
+.help-link {
+  display: block;
+  font-size: 20px;
+  margin-top: 20px;
+  color: white;
+  text-decoration: none;
+}
+
+.help-info {
+  align-items: center;
+  margin: 100px 100px;
+  font-size: xx-large;
+  line-height: 5rem;
+}
+.p-help {
+  margin-top: 20px;
+}
+
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
   .btn {
