@@ -8,7 +8,7 @@ document.querySelector('.check').addEventListener('click', function () {
   const guess = Number(document.querySelector('.guess').value);
   //when there is an empty input
   if (!guess) {
-    document.querySelector('.message').textContent = '⛔ No number';
+    document.querySelector('.message').textContent = '⛔ Enter a number';
 
     //For correct input
   } else if (guess == number) {
